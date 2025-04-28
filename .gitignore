@@ -1,0 +1,18 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore data
+data_original/
+
+# Ignore outputs
+outputs/
+
+# Ignore any temp or backup files
+*.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+.idea/
